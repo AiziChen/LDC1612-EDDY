@@ -7,7 +7,7 @@ A surface scanner for Klipper firmware [Eddy current probe](https://www.klipper3
 
 ## Features
 
-* Copy of [Beacon revH](https://beacon3d.com/product/beacon-h/), but open source.
+* Similar to [Beacon revH](https://beacon3d.com/product/beacon-h/), but open source.
 * Simple, no microcontroller, only LDC1612 chip inside.
 * Connection stable, only support I2C connecting, but it is stable than via USB or CAN throug an another MCU.
 * Has an NTC thermistor to support coil temparature detect.
