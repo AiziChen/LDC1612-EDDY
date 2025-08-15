@@ -1,7 +1,8 @@
 # LDC1612 Beacon coil
 
 
-![PCB-foreground](images/LDC1612-EDDY.png)
+<img src="images/LDC1612-EDDY.png" alt="PCB foreground" width=200 height=200 />
+<img src="images/LDC1612-EDDY-back.png" alt="PCB background" width=200 height=200 />
 
 A surface scanner for Klipper firmware [Eddy current probe](https://www.klipper3d.org/Eddy_Probe.html?h=eddy#eddy-current-inductive-probe) to provide very fast and high accuracy surface scanning.
 
