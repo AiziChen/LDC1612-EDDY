@@ -1,4 +1,4 @@
-# LDC1612 Beacon coil
+# LDC1612 Eddy coil
 
 
 <img src="images/LDC1612-EDDY.png" alt="PCB foreground" width=200 height=200 />
